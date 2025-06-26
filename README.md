@@ -47,22 +47,22 @@ expo-fitness-app/
 ![Login](./assets/screenshots/login.png)
 
 ### 📊 Dashboard
-![Dashboard](./assets/screenshots/dashboard.png)
+![Dashboard](./assets/screenshots/Dashboard.png)
 
 ### 💪 Workout Tracker
-![Workout](./assets/screenshots/workout.png)
+![Workout](./assets/screenshots/Workout.png)
 
 ### 🧠 Health Status
-![Health Status](./assets/screenshots/health-status.png)
+![Health Status](./assets/screenshots/HealthStatus.png)
 
 ### 🧠 Health Status (Detail)
-![Health Status 2](./assets/screenshots/health-status2.png)
+![Health Status 2](./assets/screenshots/HealthStatus2.png)
 
 ### 🗓️ Weekly Schedule
-![Schedule](./assets/screenshots/schedule.png)
+![Schedule](./assets/screenshots/Schedule.png)
 
 ### 🧬 Profile Page
-![Profile](./assets/screenshots/profile.png)
+![Profile](./assets/screenshots/Profile.png)
 
 ### 🤖 AI Chatbot
 ![Chatbot](./assets/screenshots/chatbot.png)

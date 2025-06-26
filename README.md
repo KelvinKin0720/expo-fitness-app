@@ -1,41 +1,81 @@
-# Health Monitoring App (FYP)
+# 🧠 Health Monitoring App (Final Year Project)
 
-A mobile fitness and health tracking app developed using React Native and Firebase as part of my university final year project.
+A cross-platform mobile fitness app developed using **React Native**, **Firebase**, and **Redux**, built to help users track health metrics and stay on top of their wellness goals.
+
+---
 
 ## 🚀 Features
 
-- Firebase Authentication (sign up, login)
-- User data tracking: BMI, heart rate, workouts
-- Weekly schedule planner
-- Admin dashboard with data visualizations (ECharts)
-- AI Fitness Chatbot via DeepSeek API
-- Offline support via AsyncStorage
+- 🔐 User login / registration (Firebase Auth)
+- 📊 Track BMI, workout logs, heart rate
+- 📆 Weekly workout planner
+- 🧠 AI fitness chatbot using DeepSeek API
+- 📉 Admin dashboard (ECharts.js + Firebase Web)
+- 🌐 Real-time sync with offline support (AsyncStorage)
 
-## 🛠️ Technologies
+---
 
-- React Native (Expo)
-- Firebase (Auth, Firestore)
-- Redux Toolkit
-- ECharts.js
-- JavaScript, HTML/CSS
-- Git & GitHub
+## 🛠️ Tech Stack
 
-## 📁 Folder Structure
+| Technology | Purpose |
+|------------|---------|
+| React Native (Expo) | Cross-platform UI |
+| Firebase | Auth, Firestore |
+| Redux Toolkit | Global state management |
+| JavaScript / JSX | Core logic |
+| ECharts.js | Admin dashboard charts |
+| DeepSeek API | Chatbot AI |
+| AsyncStorage | Offline mode |
+
+---
+
+## 📂 Folder Structure
 
 expo-fitness-app/
 ├── assets/
 ├── firebase/
 ├── redux/
-├── routes/
 ├── pages/
+├── routes/
 ├── utils/
 ├── App.js
 └── package.json
 
 ## 📷 Screenshots
 
+### 🔐 Login Page
+![Login](./assets/screenshots/login.png)
 
-## 🧑‍💻 Author
+### 📊 Dashboard
+![Dashboard](./assets/screenshots/dashboard.png)
 
-Tong Wai Yin  
-[LinkedIn Profile](https://linkedin.com/in/wai-yin-tong-2977b5246)
+### 💪 Workout Tracker
+![Workout](./assets/screenshots/workout.png)
+
+### 🧠 Health Status
+![Health Status](./assets/screenshots/health-status.png)
+
+### 🧠 Health Status (Detail)
+![Health Status 2](./assets/screenshots/health-status2.png)
+
+### 🗓️ Weekly Schedule
+![Schedule](./assets/screenshots/schedule.png)
+
+### 🧬 Profile Page
+![Profile](./assets/screenshots/profile.png)
+
+### 🤖 AI Chatbot
+![Chatbot](./assets/screenshots/chatbot.png)
+
+
+## 👨‍💻 Author
+
+**Tong Wai Yin**  
+📧 a2022938515@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/wai-yin-tong-2977b5246)
+
+---
+
+## 📄 License
+
+Open-source for academic, demo, and non-commercial use.
